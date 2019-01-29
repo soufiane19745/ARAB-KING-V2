@@ -1,0 +1,6 @@
+﻿token= NTM5NTM3OTc4NzAwMDcwOTEy.DzDzlA.wQi-adN6MPCLFlmQZwVlrF3n0X0
+owner= 512279467977343006
+prefix= -
+game= -💰 ♔ حياة واقعية 👤 سيارات حصرية🚗وظائف حصرية 👮رواتب عالية Arab King
+stayinchannel=true 
+songinstatus=false 
